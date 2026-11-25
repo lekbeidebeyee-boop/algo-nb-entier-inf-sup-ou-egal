@@ -1,0 +1,12 @@
+Algorithme            calcule de TH
+Variables: nb produits:Entiers
+           TH: Reel
+Debut 
+Ecrire("veuillez saisir le nombre du produit nb produit")
+   Lire(nb produit)
+Ecrire("veuillez saisir le total TH")
+    Lire(TH)
+Traitement
+TH<--nb produit*200 
+  Afficher("le total est TH")
+FIN
